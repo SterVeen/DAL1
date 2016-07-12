@@ -26,7 +26,7 @@
 
 // casacore header files
 #ifdef DAL_WITH_CASA
-#include <coordinates/Coordinates/LinearCoordinate.h>
+#include <casacore/coordinates/Coordinates/LinearCoordinate.h>
 #endif
 
 namespace DAL1 {  // Namespace DAL1 -- begin
