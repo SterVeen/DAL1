@@ -28,7 +28,7 @@
 #include <core/dalColumn.h>
 
 #ifdef DAL_WITH_CASA
-#include <casacore/ms/MeasurementSets/MSReader.h>
+#include <casacore/ms/MSOper/MSReader.h>
 #include <casacore/tables/Tables.h>
 #endif
 
