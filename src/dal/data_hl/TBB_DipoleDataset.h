@@ -24,13 +24,13 @@
 #include <string>
 
 #ifdef DAL_WITH_CASA
-#include <casa/aips.h>
-#include <casa/Arrays/ArrayIO.h>
-#include <casa/Arrays/Vector.h>
-#include <casa/Quanta/Quantum.h>
-#include <casa/Containers/Record.h>
-#include <measures/Measures/MFrequency.h>
-#include <measures/Measures/MPosition.h>
+#include <casacore/casa/aips.h>
+#include <casacore/casa/Arrays/ArrayIO.h>
+#include <casacore/casa/Arrays/Vector.h>
+#include <casacore/casa/Quanta/Quantum.h>
+#include <casacore/casa/Containers/Record.h>
+#include <casacore/measures/Measures/MFrequency.h>
+#include <casacore/measures/Measures/MPosition.h>
 #endif
 
 #include <data_common/HDF5GroupBase.h>
