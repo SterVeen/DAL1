@@ -32,7 +32,7 @@
 #include <dal1_config.h>
 
 #ifdef DAL_WITH_CASA
-#include <casa/Arrays/Vector.h>
+#include <casacore/casa/Arrays/Vector.h>
 #endif
 
 /*!
