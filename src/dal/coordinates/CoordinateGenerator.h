@@ -30,13 +30,13 @@
 #include <core/dalCommon.h>
 
 #ifdef DAL_WITH_CASA
-#include <coordinates/Coordinates/ObsInfo.h>
-#include <coordinates/Coordinates/Coordinate.h>
-#include <coordinates/Coordinates/DirectionCoordinate.h>
-#include <coordinates/Coordinates/LinearCoordinate.h>
-#include <coordinates/Coordinates/StokesCoordinate.h>
-#include <coordinates/Coordinates/SpectralCoordinate.h>
-#include <coordinates/Coordinates/TabularCoordinate.h>
+#include <casacore/coordinates/Coordinates/ObsInfo.h>
+#include <casacore/coordinates/Coordinates/Coordinate.h>
+#include <casacore/coordinates/Coordinates/DirectionCoordinate.h>
+#include <casacore/coordinates/Coordinates/LinearCoordinate.h>
+#include <casacore/coordinates/Coordinates/StokesCoordinate.h>
+#include <casacore/coordinates/Coordinates/SpectralCoordinate.h>
+#include <casacore/coordinates/Coordinates/TabularCoordinate.h>
 
 using casa::Vector;
 #endif
