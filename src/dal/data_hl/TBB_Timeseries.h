@@ -23,7 +23,7 @@
 
 // casacore header files
 #ifdef DAL_WITH_CASA
-#include <casa/BasicSL/String.h>
+#include <casacore/casa/BasicSL/String.h>
 #endif
 
 #include <data_common/CommonAttributes.h>
