@@ -39,7 +39,7 @@ using std::vector;
 
 // casacore header files
 #ifdef DAL_WITH_CASA
-#include <casa/Arrays/Array.h>
+#include <casacore/casa/Arrays/Array.h>
 #endif
 
 // DAL1 header files
