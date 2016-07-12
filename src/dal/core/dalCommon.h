@@ -42,15 +42,15 @@ using std::endl;
 #include <core/HDF5Dataspace.h>
 
 #ifdef DAL_WITH_CASA
-#include <casa/Arrays/IPosition.h>
-#include <casa/Arrays/Vector.h>
-#include <casa/Quanta/Quantum.h>
-#include <casa/OS/File.h>
-#include <casa/OS/Path.h>
-#include <casa/OS/SymLink.h>
-#include <images/Images/ImageInterface.h>
-#include <measures/Measures/MDirection.h>
-#include <measures/Measures/MPosition.h>
+#include <casacore/casa/Arrays/IPosition.h>
+#include <casacore/casa/Arrays/Vector.h>
+#include <casacore/casa/Quanta/Quantum.h>
+#include <casacore/casa/OS/File.h>
+#include <casacore/casa/OS/Path.h>
+#include <casacore/casa/OS/SymLink.h>
+#include <casacore/images/Images/ImageInterface.h>
+#include <casacore/measures/Measures/MDirection.h>
+#include <casacore/measures/Measures/MPosition.h>
 #endif
 
 /*!
