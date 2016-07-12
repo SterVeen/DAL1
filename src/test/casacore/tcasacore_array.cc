@@ -23,9 +23,9 @@
 #include <string>
 #include <vector>
 
-#include <casa/Arrays/Array.h>
-#include <casa/Arrays/ArrayIO.h>
-#include <casa/Arrays/IPosition.h>
+#include <casacore/casa/Arrays/Array.h>
+#include <casacore/casa/Arrays/ArrayIO.h>
+#include <casacore/casa/Arrays/IPosition.h>
 
 /*!
   \file tcasacore_array.cc
