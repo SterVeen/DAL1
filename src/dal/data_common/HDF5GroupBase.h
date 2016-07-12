@@ -27,7 +27,7 @@
 
 // casacore header files
 #ifdef DAL_WITH_CASA
-#include <casa/Arrays/Vector.h>
+#include <casacore/casa/Arrays/Vector.h>
 #endif
 
 // DAL header files
