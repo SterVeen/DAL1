@@ -30,8 +30,8 @@
 #endif
 
 #ifdef DAL_WITH_CASA
-#include <tables/Tables/ScalarColumn.h>
-#include <tables/Tables/ArrayColumn.h>
+#include <casacore/tables/Tables/ScalarColumn.h>
+#include <casacore/tables/Tables/ArrayColumn.h>
 #endif
 
 namespace DAL1 {
