@@ -31,7 +31,7 @@
 #ifdef DAL_WITH_CASA
 #include <casacore/measures/Measures/MDirection.h>
 #ifdef DAL_WITH_WCSLIB
-#include <coordinates/Coordinates/Projection.h>
+#include <casacore/coordinates/Coordinates/Projection.h>
 #endif
 #endif
 
