@@ -26,8 +26,8 @@
 #include <string>
 
 /* casacore header files */
-#include <casa/Arrays.h>
-#include <casa/HDF5.h>
+#include <casacore/casa/Arrays.h>
+#include <casacore/casa/HDF5.h>
 
 using std::cout;
 using std::cerr;
