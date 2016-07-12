@@ -11,7 +11,7 @@
 #include <dal1_config.h>
 #include <data_hl/TBB_Timeseries.h>
 
-#include <measures/Measures/MPosition.h>
+#include <casacore/measures/Measures/MPosition.h>
 
 namespace bpo = boost::program_options;
 
