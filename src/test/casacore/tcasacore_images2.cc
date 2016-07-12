@@ -27,13 +27,13 @@
 #include <sstream>
 
 /* casacore header files */
-#include <casa/Arrays.h>
-#include <coordinates/Coordinates/CoordinateSystem.h>
-#include <coordinates/Coordinates/Projection.h>
-#include <coordinates/Coordinates/DirectionCoordinate.h>
-#include <images/Images/HDF5Image.h>
-#include <images/Images/PagedImage.h>
-#include <images/Images/ImageFITSConverter.h>
+#include <casacore/casa/Arrays.h>
+#include <casacore/coordinates/Coordinates/CoordinateSystem.h>
+#include <casacore/coordinates/Coordinates/Projection.h>
+#include <casacore/coordinates/Coordinates/DirectionCoordinate.h>
+#include <casacore/images/Images/HDF5Image.h>
+#include <casacore/images/Images/PagedImage.h>
+#include <casacore/images/Images/ImageFITSConverter.h>
 
 using std::cout;
 using std::cerr;
