@@ -33,12 +33,12 @@
 #include <core/Operator.h>
 
 #ifdef DAL_WITH_CASA
-#include <casa/Arrays/Slicer.h>
-#include <ms/MeasurementSets.h>
-#include <tables/Tables/Table.h>
-#include <tables/Tables/TableDesc.h>
-#include <tables/Tables/TableRecord.h>
-#include <tables/Tables/ExprNode.h>
+#include <casacore/casa/Arrays/Slicer.h>
+#include <casacore/ms/MeasurementSets.h>
+#include <casacore/tables/Tables/Table.h>
+#include <casacore/tables/Tables/TableDesc.h>
+#include <casacore/tables/Tables/TableRecord.h>
+#include <casacore/tables/Tables/ExprNode.h>
 #endif
 
 namespace DAL1 { // Namespace DAL1 -- begin
