@@ -29,7 +29,7 @@
 #include <vector>
 
 #ifdef DAL_WITH_CASA
-#include <measures/Measures/MDirection.h>
+#include <casacore/measures/Measures/MDirection.h>
 #ifdef DAL_WITH_WCSLIB
 #include <coordinates/Coordinates/Projection.h>
 #endif
