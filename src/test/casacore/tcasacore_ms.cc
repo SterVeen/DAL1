@@ -22,14 +22,14 @@
 #include <iomanip>
 #include <string>
 
-#include <casa/OS/File.h>
-#include <casa/OS/SymLink.h>
-#include <ms/MeasurementSets.h>
-#include <ms/MeasurementSets/MeasurementSet.h>
-#include <ms/MeasurementSets/MSSelection.h>
-#include <tables/Tables/ExprNode.h>
-#include <tables/Tables/TableDesc.h>
-#include <tables/Tables/SetupNewTab.h>
+#include <casacore/casa/OS/File.h>
+#include <casacore/casa/OS/SymLink.h>
+#include <casacore/ms/MeasurementSets.h>
+#include <casacore/ms/MeasurementSets/MeasurementSet.h>
+#include <casacore/ms/MSSel/MSSelection.h>
+#include <casacore/tables/Tables/ExprNode.h>
+#include <casacore/tables/Tables/TableDesc.h>
+#include <casacore/tables/Tables/SetupNewTab.h>
 
 /*!
   \file tcasacore_ms.cc
