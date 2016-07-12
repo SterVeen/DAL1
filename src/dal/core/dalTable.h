@@ -28,8 +28,8 @@
 #include <core/dalColumn.h>
 
 #ifdef DAL_WITH_CASA
-#include <ms/MeasurementSets/MSReader.h>
-#include <tables/Tables.h>
+#include <casacore/ms/MeasurementSets/MSReader.h>
+#include <casacore/tables/Tables.h>
 #endif
 
 namespace DAL1 {
