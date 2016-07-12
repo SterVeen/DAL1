@@ -25,7 +25,7 @@
 #include <coordinates/CoordinateBase.h>
 
 #ifdef DAL_WITH_CASA
-#include <coordinates/Coordinates/DirectionCoordinate.h>
+#include <casacore/coordinates/Coordinates/DirectionCoordinate.h>
 #endif
 
 namespace DAL1 {   // Namespace DAL1 -- begin
