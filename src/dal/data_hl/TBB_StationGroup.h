@@ -27,9 +27,9 @@
 #include <string>
 
 #ifdef DAL_WITH_CASA
-#include <casa/Arrays/ArrayIO.h>
-#include <casa/Arrays/Matrix.h>
-#include <measures/Measures/MDirection.h>
+#include <casacore/casa/Arrays/ArrayIO.h>
+#include <casacore/casa/Arrays/Matrix.h>
+#include <casacore/measures/Measures/MDirection.h>
 #endif
 
 #include <data_common/HDF5GroupBase.h>
