@@ -22,8 +22,8 @@
 #include <core/dalDataset.h>
 
 #ifdef DAL_WITH_CASA
-#include <casa/Arrays/Vector.h>
-#include <casa/BasicSL/String.h>
+#include <casacore/casa/Arrays/Vector.h>
+#include <casacore/casa/BasicSL/String.h>
 #endif
 
 using std::cout;
