@@ -24,12 +24,12 @@
 #include <data_hl/TBB_StationGroup.h>
 
 #ifdef DAL_WITH_CASACORE
-#include <casa/Arrays/ArrayIO.h>
-#include <casa/Arrays/Vector.h>
-#include <casa/BasicSL/String.h>
-#include <casa/Containers/Record.h>
-#include <casa/HDF5/HDF5File.h>
-#include <casa/HDF5/HDF5Record.h>
+#include <casacore/casa/Arrays/ArrayIO.h>
+#include <casacore/casa/Arrays/Vector.h>
+#include <casacore/casa/BasicSL/String.h>
+#include <casacore/casa/Containers/Record.h>
+#include <casacore/casa/HDF5/HDF5File.h>
+#include <casacore/casa/HDF5/HDF5Record.h>
 #endif
 
 // Namespace usage
